@@ -5,13 +5,13 @@
 ------------------------
 
 * Email: [imaruf3113@gmail.com](mailto:imaruf3113@gmail.com)
-* Phone: +880 1745 559422
+* Phone: +880 1745-559422
 * Github: [Maruf Imtiaz](https://github.com/marufimtiaz)
 * LinkedIn: [Maruf Imtiaz](https://www.linkedin.com/in/maruf-imtiaz-0ff1c1a1/)
 
 **Summary:**
 ------------
-Highly motivated and detail-oriented individual with a strong foundation in programming languages, including C, Python, Dart, JavaScript, HTML and  CSS. Proficient in front-end web development and currently learning Flutter and Dart for mobile app development. Experienced in version control system (Git), game development, Artificial Intelligence and working with a team. Possesses excellent problem-solving skills and a strong work ethic.
+Ambitious and enthusiastic individual with a strong foundation in programming languages, including C, Python, Dart, JavaScript, HTML and  CSS. Proficient in front-end web development and currently learning Flutter and Dart for mobile app development. Experienced in version control system (Git), game development, Artificial Intelligence and working with a team. Possesses excellent problem-solving skills and a strong work ethic.
 
 
 **Work Experience:**
