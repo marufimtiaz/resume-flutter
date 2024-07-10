@@ -7,6 +7,7 @@
 * Email: [imaruf3113@gmail.com](mailto:imaruf3113@gmail.com)
 * Phone: +880 1745 559422
 * Github: [Maruf Imtiaz](https://github.com/marufimtiaz)
+* LinkedIn: [Maruf Imtiaz](https://www.linkedin.com/in/maruf-imtiaz-0ff1c1a1/)
 
 **Summary:**
 ------------
