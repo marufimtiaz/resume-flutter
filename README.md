@@ -1,12 +1,11 @@
-**Md. Maruf Imtiaz**
---------------------
---------------------
+## **Md. Maruf Imtiaz**
+====================
 
 **Contact Information:**
 ------------------------
 
 * Email: [imaruf3113@gmail.com](mailto:imaruf3113@gmail.com)
-* Phone: [+880 1745 559422]
+* Phone: +880 1745 559422
 * Github: [Maruf Imtiaz](https://github.com/marufimtiaz)
 
 **Summary:**
@@ -45,11 +44,12 @@ Highly motivated and detail-oriented individual with a strong foundation in prog
 **Personal Projects:**
 ----------------------
 
-## Flutter Projects
+** Flutter Projects **
+----------------------
 
 * **Calculator**: A simple calculator app (demo) built with Flutter, featuring a clean and elegant user interface. [GitHub Repository](https://github.com/marufimtiaz/flutter-calculator)
-* * **Destiny**: A choice-based story app (demo) built with Flutter. [GitHub Repository](https://github.com/marufimtiaz/flutter-destiny)
-  * * **Quiz**: A quiz app built using Flutter, featuring a database of questions and answers, and a scoring system. [GitHub Repository](https://github.com/marufimtiaz/flutter-quiz)
+* **Destiny**: A choice-based story app (demo) built with Flutter. [GitHub Repository](https://github.com/marufimtiaz/flutter-destiny)
+* **Quiz**: A quiz app built using Flutter, featuring a database of questions and answers, and a scoring system. [GitHub Repository](https://github.com/marufimtiaz/flutter-quiz)
 * **Dice Challenge**: A simple dice game built with Flutter. [GitHub Repository](https://github.com/marufimtiaz/flutter_dice_challenge)
 * **Xylophone**: A fun and interactive music app built with Flutter that lets you play a virtual xylophone with 8 colored bands! [GitHub Repository](https://github.com/marufimtiaz/flutter-xylophone)
 
